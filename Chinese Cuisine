@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Chinese Cuisine | Ethan's Favorites</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Chinese Cuisine (Favorite Food)</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="avengers.html">Avengers</a></li>
+        <li><a href="chinese.html">Chinese Cuisine</a></li>
+        <li><a href="percyjackson.html">Percy Jackson</a></li>
+        <li><a href="packers.html">Green Bay Packers</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Why I Love Chinese Food</h2>
+    <p>Chinese cuisine is known for its <strong>bold flavors</strong>, <em>variety</em>, and beautiful presentation. Every meal is a balance of sweet, sour, salty, and spicy.</p>
+
+    <h3>My Top Dishes</h3>
+    <ol>
+      <li>Kung Pao Chicken</li>
+      <li>Dumplings</li>
+      <li>Beef and Broccoli</li>
+    </ol>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Kung-pao-chicken-1.jpg" alt="Kung Pao Chicken dish" width="250">
+
+    <p>Learn more about regional cuisines at <a href="https://www.travelchinaguide.com/intro/cuisine_drink/cuisine/" target="_blank">TravelChinaGuide</a>.</p>
+  </main>
+
+  <footer>
+    <p>Image: <a href="https://commons.wikimedia.org/wiki/File:Kung-pao-chicken-1.jpg">Kung Pao Chicken</a>, CC BY-SA 3.0</p>
+  </footer>
+</body>
+</html>

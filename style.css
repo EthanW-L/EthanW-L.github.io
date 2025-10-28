@@ -1,0 +1,47 @@
+body {
+  background-color: #f4f7fa;
+  font-family: "Georgia", serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #004d99;
+}
+
+nav ul {
+  background-color: #e0e0e0;
+  list-style: none;
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #004d99;
+}
+
+nav a:hover {
+  color: #008000;
+}
+
+img {
+  display: block;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+}
+
+.unique-layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+}
